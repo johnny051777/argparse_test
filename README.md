@@ -1,5 +1,5 @@
 # argparse_test
-'args1.py' function:
+`args1.py` function:
 ```bin=
 positional arguments:
   base            第一個數字
